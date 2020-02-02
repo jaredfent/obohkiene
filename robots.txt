@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ookaigeog.imploexplo.com/sitemap.xml
